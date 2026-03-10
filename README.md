@@ -1,1 +1,1 @@
-This Repo contains sql queries used fro data analysis using python.
+This Repo contains sql queries used for data analysis using python.
